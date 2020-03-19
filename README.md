@@ -13,3 +13,5 @@ ARCHIVE [MRMS](http://mtarchive.geol.iastate.edu/2017/07/28/mrms/ncep/RadarQuali
 [Precipitation Datasets and	More!](http://www.atmos.albany.edu/daes/atmclasses/atm509/ppts/Rainfall_Datasets_20160901.pdf)
 
 [MRMS mosaic reanalysis data (from 2001 to 2011)]http://edc.occ-data.org/nexrad/mosaic/
+
+[climatological datasets (extreme rainfall/temperature) (HadEX2)](https://www.climdex.org/)
