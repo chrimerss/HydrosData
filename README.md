@@ -15,7 +15,7 @@ REAL-VIEW [MRMS](https://mrms.ncep.noaa.gov/data/)
 
 ARCHIVE [MRMS](http://mtarchive.geol.iastate.edu/2017/07/28/mrms/ncep/RadarQualityIndex/)
 
-[MRMS mosaic reanalysis data (from 2001 to 2011)]http://edc.occ-data.org/nexrad/mosaic/
+[MRMS mosaic reanalysis data (from 2001 to 2011)](http://edc.occ-data.org/nexrad/mosaic/)
 
 ## Misc
 [Precipitation Datasets and	More!](http://www.atmos.albany.edu/daes/atmclasses/atm509/ppts/Rainfall_Datasets_20160901.pdf)
@@ -24,7 +24,11 @@ ARCHIVE [MRMS](http://mtarchive.geol.iastate.edu/2017/07/28/mrms/ncep/RadarQuali
 # Precipitation climatology
 [climatological datasets (extreme rainfall/temperature) (HadEX2)](https://www.climdex.org/)
 
+[PRIMS](http://www.prism.oregonstate.edu/normals/)
+
 
 # IDF curve
 [NOAA Atlas 14 FTP](https://hdsc.nws.noaa.gov/pub/hdsc/data/)
+
+
 [NOAA Atlas 14 (CONUS)](https://hdsc.nws.noaa.gov/pub/hdsc/data/tx/)
