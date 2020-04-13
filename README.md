@@ -24,7 +24,7 @@ ARCHIVE [MRMS](http://mtarchive.geol.iastate.edu/2017/07/28/mrms/ncep/RadarQuali
 # Precipitation climatology
 [climatological datasets (extreme rainfall/temperature) (HadEX2)](https://www.climdex.org/)
 
-[PRIMS](http://www.prism.oregonstate.edu/normals/)
+[PRISM](http://www.prism.oregonstate.edu/normals/)
 
 
 # IDF curve
