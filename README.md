@@ -5,6 +5,10 @@
 
 https://data.eol.ucar.edu/dataset/21.088
 
+[University of Delware historical monthly precipitation data](https://psl.noaa.gov/data/gridded/data.UDel_AirT_Precip.html)
+
+This dataset spans from 1900-2010, obtained from historical rainfall gauges over the globe.The resolution is 0.5 degree.
+
 ## Satellite
 [GPM GESDISC](https://disc.gsfc.nasa.gov/):
 
