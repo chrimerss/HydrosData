@@ -41,3 +41,7 @@ ARCHIVE [MRMS](http://mtarchive.geol.iastate.edu/2017/07/28/mrms/ncep/RadarQuali
 # SAR data for flood detection
 
 [SAR data gallery at Alaska facility](https://asf.alaska.edu/)
+
+# Weather models data (forecast)
+
+[NASA GOES-5](https://fluid.nccs.nasa.gov/wxmaps/)
