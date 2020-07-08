@@ -44,4 +44,6 @@ ARCHIVE [MRMS](http://mtarchive.geol.iastate.edu/2017/07/28/mrms/ncep/RadarQuali
 
 # Weather models data (forecast)
 
-[NASA GOES-5](https://fluid.nccs.nasa.gov/wxmaps/)
+[NASA GEOS-5](https://fluid.nccs.nasa.gov/wxmaps/)
+
+It contains precipitation/wind speed forecast at hourly scale.
