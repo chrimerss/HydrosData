@@ -47,3 +47,7 @@ ARCHIVE [MRMS](http://mtarchive.geol.iastate.edu/2017/07/28/mrms/ncep/RadarQuali
 [NASA GEOS-5](https://fluid.nccs.nasa.gov/wxmaps/)
 
 It contains precipitation/wind speed forecast at hourly scale.
+
+# World climatology
+
+[1km-Koppen-Geiger world classification map](http://www.gloh2o.org/koppen/) : [Paper](https://www.nature.com/articles/sdata2018214)
