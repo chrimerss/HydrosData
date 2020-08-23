@@ -51,3 +51,7 @@ It contains precipitation/wind speed forecast at hourly scale.
 # World climatology
 
 [1km-Koppen-Geiger world classification map](http://www.gloh2o.org/koppen/) : [Paper](https://www.nature.com/articles/sdata2018214)
+
+# Global geopedology
+
+[Compiling and mapping global permeability of the unconsolidated and consolidated Earth: GLobal HYdrogeology MaPS 2.0 (GLHYMPS 2.0)](https://dataverse.scholarsportal.info/dataset.xhtml?persistentId=doi:10.5683/SP2/TTJNIU)
