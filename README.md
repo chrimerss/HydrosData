@@ -54,6 +54,17 @@ It contains precipitation/wind speed forecast at hourly scale.
 
 [PPDIST: global 0.1° daily and 3-hourly precipitation probability distribution climatologies for 1979–2018](https://www.nature.com/articles/s41597-020-00631-x)
 
-# Global geopedology
+# Global Hydrology/geopedology
 
 [Compiling and mapping global permeability of the unconsolidated and consolidated Earth: GLobal HYdrogeology MaPS 2.0 (GLHYMPS 2.0)](https://dataverse.scholarsportal.info/dataset.xhtml?persistentId=doi:10.5683/SP2/TTJNIU)
+
+[HydroATLAS – 500m](https://www.nature.com/articles/s41597-019-0300-6)
+
+|Category|Description| Examples|
+|--------|-----------|---------|
+|Hydrology & hydrography|	Hydrological and hydrographic characteristics related to quantity, quality, location and extent of terrestrial water|Examples: natural annual runoff and discharge, lake cover, groundwater table depth|
+|Physiography|	Topographic and geomorphic characteristics related to terrain, relief or landscape position|Examples: elevation, slope, and derivatives|
+|Climate|	Climatic characteristics|Examples: mean temperature/precipitation/evaporation, climate moisture index, global aridity|
+|Land cover & use|	Land cover and land use characteristics including biogeographic regions| Examples: land cover classes, permafrost extent, terrestrialand freshwater ecoregions|
+|Soils & geology	|Soil and geology related characteristics including substrate types and soil conditions|Examples: percent sand/silt/clay in soil, soil water stress, lithography, karst, soil erosion|
+|Anthropogenic influences|	Anthropogenic characteristics and influences including demographic and socioeconomic aspects|Examples: population density, human footprint, GDP per capita|
