@@ -68,3 +68,7 @@ It contains precipitation/wind speed forecast at hourly scale.
 |Land cover & use|	Land cover and land use characteristics including biogeographic regions| Examples: land cover classes, permafrost extent, terrestrialand freshwater ecoregions|
 |Soils & geology	|Soil and geology related characteristics including substrate types and soil conditions|Examples: percent sand/silt/clay in soil, soil water stress, lithography, karst, soil erosion|
 |Anthropogenic influences|	Anthropogenic characteristics and influences including demographic and socioeconomic aspects|Examples: population density, human footprint, GDP per capita|
+
+[Global characteristic discharge Q](https://journals.ametsoc.org/view/journals/hydr/16/4/jhm-d-14-0155_1.xml)
+
+Machine learning trained global discharge characteristics (e.g., mean flow, base flow, and other percentiles) at 0.125-deg resolution. It could be utilized for model calibration/bias correction.
