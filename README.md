@@ -25,13 +25,13 @@ ARCHIVE [MRMS](http://mtarchive.geol.iastate.edu/2017/07/28/mrms/ncep/RadarQuali
 [Precipitation Datasets and	More!](http://www.atmos.albany.edu/daes/atmclasses/atm509/ppts/Rainfall_Datasets_20160901.pdf)
 
 
-# Precipitation climatology
+## Precipitation climatology
 [climatological datasets (extreme rainfall/temperature) (HadEX2)](https://www.climdex.org/)
 
 [PRISM](http://www.prism.oregonstate.edu/normals/)
 
 
-# IDF curve
+## IDF curve
 [NOAA Atlas 14 FTP](https://hdsc.nws.noaa.gov/pub/hdsc/data/)
 
 
@@ -72,3 +72,7 @@ It contains precipitation/wind speed forecast at hourly scale.
 [Global characteristic discharge Q](https://journals.ametsoc.org/view/journals/hydr/16/4/jhm-d-14-0155_1.xml)
 
 Machine learning trained global discharge characteristics (e.g., mean flow, base flow, and other percentiles) at 0.125-deg resolution. It could be utilized for model calibration/bias correction.
+
+# Streamflow
+
+[USGS gauge-derived basin shapefile](https://water.usgs.gov/GIS/metadata/usgswrd/XML/streamgagebasins.xml#stdorder)
