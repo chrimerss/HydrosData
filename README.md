@@ -73,6 +73,8 @@ It contains precipitation/wind speed forecast at hourly scale.
 
 Machine learning trained global discharge characteristics (e.g., mean flow, base flow, and other percentiles) at 0.125-deg resolution. It could be utilized for model calibration/bias correction.
 
+![image](https://user-images.githubusercontent.com/31950869/114488658-6170fa00-9bd7-11eb-98da-87ade89eca05.png)
+
 # Streamflow
 
 [USGS gauge-derived basin shapefile](https://water.usgs.gov/GIS/metadata/usgswrd/XML/streamgagebasins.xml#stdorder)
