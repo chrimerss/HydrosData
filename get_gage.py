@@ -1,3 +1,4 @@
+#!python
 '''
 Toolkit for downloading USGS streamflow data based on station_id and date range
 
@@ -16,30 +17,30 @@ import sys
 import numpy as np
 
 parser = argparse.ArgumentParser(description='Retrieve USGS streamflow/stage records, output data in metrics')
-parser.add_argument('--id', type=str, metavar='id',
+parser.add_argument('--id', type=str, metavar='station id', required=True,
                     help='one (or more) stations e.g., 08076700')
 
-parser.add_argument('--parameter_id', metavar='param', type=str, default='00060', nargs='?',
+parser.add_argument('--param', metavar='parameter id', type=str, default='00060', nargs='?',
                    help='parameter to retrieve, default - 00060 - streamflow')
 
-parser.add_argument('--start_time', metavar='start', type=str,
+parser.add_argument('--start', metavar='start time', type=str,
                     help='the beginning time (%Y%m%d%H%M%S) e.g.,201708250000')
 
-parser.add_argument('--end_time', metavar='end', type=str,
+parser.add_argument('--end', metavar='end time', type=str,
                     help='the end time (%Y%m%d%H%M%S) e.g.,201708300000')
 
-parser.add_argument('--to_UTC', metavar='UTC', type=bool, nargs='?', default=True,
+parser.add_argument('--to_UTC', metavar='convert to UTC', type=bool, nargs='?', default=True,
                    help='Convert to UTC time, default True')
 
-parser.add_argument('--dst', metavar='dst', type=str, nargs='?', default='output.csv',
+parser.add_argument('--dst', metavar='file output path', type=str, nargs='?', default='output.csv',
                    help='Output file name')
 
 args = parser.parse_args()
 station_id= args.id
-parameter_id= args.parameter_id
+parameter_id= args.param
 isConvert=args.to_UTC
-start= args.start_time
-end=args.end_time
+start= args.start
+end=args.end
 dst= args.dst
 
 print(
@@ -73,8 +74,11 @@ if isConvert:
     df['datetime']=[date.astimezone(timezone('UTC')) for date in dates]
 else:
     df['datetime']= dates
-    
-df['discharge']= np.array(data) * 0.0283
+
+if parameter_id=='00060': #discharge
+    df['discharge']= np.array(data) * 0.0283
+elif parameter_id=='00065': #gage height
+    df['gage_height']= np.array(data)*0.3084
 df.set_index('datetime', inplace=True)
 df.index= df.index.tz_localize(None)
 df.to_csv(dst)
