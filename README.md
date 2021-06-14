@@ -78,3 +78,5 @@ Machine learning trained global discharge characteristics (e.g., mean flow, base
 # Streamflow
 
 [USGS gauge-derived basin shapefile](https://water.usgs.gov/GIS/metadata/usgswrd/XML/streamgagebasins.xml#stdorder)
+
+[Global streamflow data (mean, minimum, and maximum) at 1km [Paper](https://www.nature.com/articles/sdata201852)](https://dataportaal.pbl.nl/downloads/FLO1K/)
