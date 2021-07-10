@@ -54,6 +54,10 @@ It contains precipitation/wind speed forecast at hourly scale.
 
 [PPDIST: global 0.1° daily and 3-hourly precipitation probability distribution climatologies for 1979–2018](https://www.nature.com/articles/s41597-020-00631-x)
 
+[Dai and Trenberth Global River Flow and Continental Discharge Dataset](https://rda.ucar.edu/datasets/ds551.0/)
+
+A collection of continental precipitation and streamflow data from the period 1950 to 2018 (monthly).
+
 # Global Hydrology/geopedology
 
 [Compiling and mapping global permeability of the unconsolidated and consolidated Earth: GLobal HYdrogeology MaPS 2.0 (GLHYMPS 2.0)](https://dataverse.scholarsportal.info/dataset.xhtml?persistentId=doi:10.5683/SP2/TTJNIU)
