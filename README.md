@@ -79,6 +79,8 @@ Machine learning trained global discharge characteristics (e.g., mean flow, base
 
 ![image](https://user-images.githubusercontent.com/31950869/114488658-6170fa00-9bd7-11eb-98da-87ade89eca05.png)
 
+[WaterGap data from 1901-2016 (monthly/yearly)](https://doi.pangaea.de/10.1594/PANGAEA.918447?format=html#download)
+
 # Streamflow
 
 [USGS gauge-derived basin shapefile](https://water.usgs.gov/GIS/metadata/usgswrd/XML/streamgagebasins.xml#stdorder)
