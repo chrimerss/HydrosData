@@ -58,9 +58,11 @@ It contains precipitation/wind speed forecast at hourly scale.
 
 A collection of continental precipitation and streamflow data from the period 1950 to 2018 (monthly).
 
-# Global Hydrology/geopedology
+# Global/continental Hydrology/geopedology
 
-### [Compiling and mapping global permeability of the unconsolidated and consolidated Earth: GLobal HYdrogeology MaPS 2.0 (GLHYMPS 2.0)](https://dataverse.scholarsportal.info/dataset.xhtml?persistentId=doi:10.5683/SP2/TTJNIU)
+## Hydrography
+
+### [CONUS 1km and 250m hydrography dataset (including DEM, FAC, Fdir, slope, rivers)](https://datacommons.cyverse.org/browse/iplant/home/shared/commons_repo/curated/JZhang_LCondon_CONUS_Topography_Sep2020)
 
 ### [HydroATLAS – 500m](https://www.nature.com/articles/s41597-019-0300-6)
 
@@ -72,6 +74,12 @@ A collection of continental precipitation and streamflow data from the period 19
 |Land cover & use|	Land cover and land use characteristics including biogeographic regions| Examples: land cover classes, permafrost extent, terrestrialand freshwater ecoregions|
 |Soils & geology	|Soil and geology related characteristics including substrate types and soil conditions|Examples: percent sand/silt/clay in soil, soil water stress, lithography, karst, soil erosion|
 |Anthropogenic influences|	Anthropogenic characteristics and influences including demographic and socioeconomic aspects|Examples: population density, human footprint, GDP per capita|
+
+## Hydrogeology
+
+### [Compiling and mapping global permeability of the unconsolidated and consolidated Earth: GLobal HYdrogeology MaPS 2.0 (GLHYMPS 2.0)](https://dataverse.scholarsportal.info/dataset.xhtml?persistentId=doi:10.5683/SP2/TTJNIU)
+
+## Hydrologic signature
 
 ### [Global characteristic discharge Q](https://journals.ametsoc.org/view/journals/hydr/16/4/jhm-d-14-0155_1.xml)
 
