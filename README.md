@@ -75,9 +75,15 @@ A collection of continental precipitation and streamflow data from the period 19
 |Soils & geology	|Soil and geology related characteristics including substrate types and soil conditions|Examples: percent sand/silt/clay in soil, soil water stress, lithography, karst, soil erosion|
 |Anthropogenic influences|	Anthropogenic characteristics and influences including demographic and socioeconomic aspects|Examples: population density, human footprint, GDP per capita|
 
+## Global dams and reservoirs
+
 ### [GRanD database]()
 
 Lehner, B., Liermann, C.R., Revenga, C., Vörösmarty, C., Fekete, B., Crouzet, P., Döll, P., Endejan, M., Frenken, K., Magome, J., Nilsson, C., Robertson, J.C., Rödel, R., Sindorf, N. and Wisser, D. (2011), High-resolution mapping of the world's reservoirs and dams for sustainable river-flow management. Frontiers in Ecology and the Environment, 9: 494-502. https://doi.org/10.1890/100125
+
+### [GOOD2](https://springernature.figshare.com/articles/dataset/GOODD_global_dam_dataset/9747686?backTo=/collections/GOODD_a_global_dataset_of_more_than_38_000_georeferenced_dams/4648214)
+
+Mulligan, M., van Soesbergen, A. & Sáenz, L. GOODD, a global dataset of more than 38,000 georeferenced dams. Sci Data 7, 31 (2020). https://doi.org/10.1038/s41597-020-0362-5
 
 ## Hydrogeology
 
