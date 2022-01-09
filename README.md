@@ -116,3 +116,10 @@ A collection of hundreds of flood inundation maps based on DFO flood events by u
 
 Their database is published in Nature article [Satellite imaging reveals increased proportion of population exposed to floods
 ](https://www.nature.com/articles/s41586-021-03695-w)
+
+
+## Soil moisture
+
+### [International soil moisture network](https://ismn.geo.tuwien.ac.at/en/)
+
+### [SCAN and SNOTEL in the US](https://www.wcc.nrcs.usda.gov/scan/)
