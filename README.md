@@ -118,6 +118,8 @@ Their database is published in Nature article [Satellite imaging reveals increas
 ](https://www.nature.com/articles/s41586-021-03695-w)
 
 
+### [Global FloodPlain at 250m](https://www.nature.com/articles/sdata2018309)
+
 ## Soil moisture
 
 ### [International soil moisture network](https://ismn.geo.tuwien.ac.at/en/)
