@@ -125,3 +125,10 @@ Their database is published in Nature article [Satellite imaging reveals increas
 ### [International soil moisture network](https://ismn.geo.tuwien.ac.at/en/)
 
 ### [SCAN and SNOTEL in the US](https://www.wcc.nrcs.usda.gov/scan/)
+
+
+# Weather data
+
+## Hurricane best track shp file
+
+[National Hurricane Center](https://www.nhc.noaa.gov/data/tcr/)
