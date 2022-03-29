@@ -136,3 +136,10 @@ Their database is published in Nature article [Satellite imaging reveals increas
 ## Hurricane best track shp file
 
 [National Hurricane Center](https://www.nhc.noaa.gov/data/tcr/)
+
+
+# Socioeconomic dataset
+
+## Urban expansion
+
+### [Global 1-km Downscaled Urban Land Extent Projection and Base Year Grids by SSP Scenarios, v1 (2000 – 2100)](https://sedac.ciesin.columbia.edu/data/set/ssp-1-km-downscaled-urban-land-extent-projection-base-year-ssp-2000-2100/data-download)
