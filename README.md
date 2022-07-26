@@ -79,6 +79,26 @@ A collection of continental precipitation and streamflow data from the period 19
 |Soils & geology	|Soil and geology related characteristics including substrate types and soil conditions|Examples: percent sand/silt/clay in soil, soil water stress, lithography, karst, soil erosion|
 |Anthropogenic influences|	Anthropogenic characteristics and influences including demographic and socioeconomic aspects|Examples: population density, human footprint, GDP per capita|
 
+### [Attributes fo NHDPlus V2.1](https://www.sciencebase.gov/catalog/item/5669a79ee4b08895842a1d47)
+
+Child items include:
+
+|Item|
+|----|
+|Best Management Practices, characteristics such as agricultural management practices and land in conservation practices|
+|Chemical, characteristics such as nitrogen application or toxicity weighted use.|
+|Climate and Water Balance Model, characteristics such as model outputs of runoff, actual evapotranspiration or ground water storage.|
+|Climate, characteristics such as mean precipitation, temperature, relative humidity, or evapotranspiration.|
+|Geology, characteristics such as Hunt or Soller surficial geologies.|
+|Hydrologic, characteristics such as base flow or infiltration excess overland flow.Hydrologic Modifications, characteristics such as dam storage or tile drains.|
+|Hydrologic Modifications, characteristics such as dam storage or tile drains.|
+|Landscape, characteristics such as NLCD, CDL or NWALT.|
+|Population Infrastructure, characteristics such as population, housing, and road densities.|
+|Regions, characteristics such as EcoRegions, Physiography or Hydrologic Landscapes.|
+|Soils, characteristics such as STATSGO, soil salinity, and soil restrictive layer.|
+|Topographic Characteristics, characteristics such as basin area, slope and elevation.|
+|Water use, characteristics such as estimated freshwater withdrawls and estimated freshwater consumption by thermo-electric power plants|
+
 ## Global dams and reservoirs
 
 ### [GRanD database]()
