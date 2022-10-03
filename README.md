@@ -119,6 +119,10 @@ Mulligan, M., van Soesbergen, A. & Sáenz, L. GOODD, a global dataset of more th
 
 Machine learning trained global discharge characteristics (e.g., mean flow, base flow, and other percentiles) at 0.125-deg resolution. It could be utilized for model calibration/bias correction.
 
+### [Global Runoff Reconstruction](https://www.research-collection.ethz.ch/handle/20.500.11850/324386)
+
+Global monthly runoff dataset at 0.5-deg resolution, reconstructed from observations and trained machine learning algorithm.
+
 ![image](https://user-images.githubusercontent.com/31950869/114488658-6170fa00-9bd7-11eb-98da-87ade89eca05.png)
 
 ### [WaterGap data from 1901-2016 (monthly/yearly)](https://doi.pangaea.de/10.1594/PANGAEA.918447?format=html#download)
