@@ -170,6 +170,12 @@ Their database is published in Nature article [Satellite imaging reveals increas
 
 ### [Global 100-meter local climate zone](https://essd.copernicus.org/articles/14/3835/2022/essd-14-3835-2022.html)
 
+## People migration in facing natural hazards
+
+[CrisisReady report of people migration](https://www.crisisready.io/resources/situation-reports/)
+[Meta data for good](https://dataforgood.facebook.com/dfg/tools)
+
 # Global climate model output
 ## [ISIMIP - Inter-Sectoral Impact Model Intercomparison Project](https://data.isimip.org/)
+
 
