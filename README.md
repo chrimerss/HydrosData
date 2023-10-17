@@ -21,6 +21,10 @@ ARCHIVE [MRMS](http://mtarchive.geol.iastate.edu/2017/07/28/mrms/ncep/RadarQuali
 
 ### [MRMS mosaic reanalysis data (from 2001 to 2011)](http://edc.occ-data.org/nexrad/mosaic/)
 
+## Reanalysis data
+### [NCAR CONUS404 1979-2020](https://rda.ucar.edu/datasets/ds559.0/dataaccess/)
+
+
 ## Misc
 ### [Precipitation Datasets and	More!](http://www.atmos.albany.edu/daes/atmclasses/atm509/ppts/Rainfall_Datasets_20160901.pdf)
 
