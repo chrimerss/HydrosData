@@ -142,6 +142,8 @@ Global monthly runoff dataset at 0.5-deg resolution, reconstructed from observat
 
 ### [Global streamflow data (mean, minimum, and maximum) at 1km [Paper](https://www.nature.com/articles/sdata201852)](https://dataportaal.pbl.nl/downloads/FLO1K/)
 
+### [Remote Sensing-Based Extension of GRDC Time Series: A Monthly Product with Uncertainty Estimates](https://darus.uni-stuttgart.de/dataset.xhtml?persistentId=doi:10.18419/darus-3558)
+
 ## Flood inundation
 
 ### [Cloud to street](http://global-flood-database.cloudtostreet.info/)
