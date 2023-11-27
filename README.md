@@ -135,6 +135,8 @@ Global monthly runoff dataset at 0.5-deg resolution, reconstructed from observat
 
 ### [Global Groundwater table depth](http://thredds-gfnl.usc.es/thredds/catalog/GLOBALWTDFTP/catalog.html)
 
+### [CONUS streamflow water quality indices StreamCat](https://www.epa.gov/national-aquatic-resource-surveys/streamcat-dataset#streamcat-documentation)
+
 
 ## Streamflow
 
