@@ -185,6 +185,12 @@ Their database is published in Nature article [Satellite imaging reveals increas
 [CrisisReady report of people migration](https://www.crisisready.io/resources/situation-reports/)
 [Meta data for good](https://dataforgood.facebook.com/dfg/tools)
 
+## Vulnerability/Resilience
+
+### [FEMA resilience indicator RAPT](https://www.fema.gov/about/reports-and-data/resilience-analysis-planning-tool)
+
+This is a county-level resilience ranking.
+
 # Global climate model output
 ## [ISIMIP - Inter-Sectoral Impact Model Intercomparison Project](https://data.isimip.org/)
 
